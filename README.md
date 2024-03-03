@@ -5,7 +5,7 @@ Google Colab Tutorials for pyAMPACT
 
 02_pyAMPACT_alignment_Overview.ipynb: Overview of How to do Score-Audio Alignment 
 
-03_pyAMPACT_alignment_Performance.ipynb: Overview of How to Estimate Performance Paramters
+03_pyAMPACT_alignment_Performance.ipynb: Overview of How to Estimate Performance Parameters
 
 04_pyAMPACT_symbolic_overview.ipynb: Overview of How Symbolic Data is Represented
 
