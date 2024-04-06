@@ -1,0 +1,39 @@
+{
+  "labels": [
+    {"type": "Structure", "tag": "Exposition", "duration": 150.5},
+    {"type": "Structure", "tag": "First subject", "duration": 16},
+    {"type": "Texture", "tag": "H3h/S1, M1s", "layers": ["Algomus"], "duration": 4},
+    {"type": "Harmony", "tag": "I", "layers": ["DCML"], "duration": 4},
+    {"type": "Local Key", "tag": "I", "layers": ["DCML"], "duration": 64},
+    {"type": "Phrase", "tag": "{", "layers": ["DCML"], "duration": 62},
+    {"type": "Texture", "tag": "H6h, M1/M1", "layers": ["Algomus"], "duration": 4, "start": 4},
+    {"type": "Harmony", "tag": "ii6", "layers": ["DCML"], "duration": 2, "start": 4},
+    {"type": "Harmony", "tag": "V2", "layers": ["DCML"], "duration": 0.5, "start": 6},
+    {"type": "Harmony", "tag": "I6", "layers": ["DCML"], "duration": 0.5, "start": 6.5},
+    {"type": "Harmony", "tag": "ii6", "layers": ["DCML"], "duration": 0.5, "start": 7},
+    {"type": "Harmony", "tag": "V", "layers": ["DCML"], "duration": 0.5, "start": 7.5},
+    {"type": "Cadence", "tag": "PAC", "layers": ["DCML"], "start": 8},
+    {"type": "Texture", "tag": "H3h/S1, M1s", "layers": ["Algomus"], "duration": 4, "start": 8},
+    {"type": "Harmony", "tag": "I", "layers": ["DCML"], "duration": 4, "start": 8},
+    {"type": "Texture", "tag": "H6h, M1/M1", "layers": ["Algomus"], "duration": 4, "start": 12},
+    {"type": "Harmony", "tag": "ii6", "layers": ["DCML"], "duration": 2, "start": 12},
+    {"type": "Harmony", "tag": "V2", "layers": ["DCML"], "duration": 0.5, "start": 14},
+    {"type": "Harmony", "tag": "I6", "layers": ["DCML"], "duration": 0.5, "start": 14.5},
+    {"type": "Harmony", "tag": "ii6", "layers": ["DCML"], "duration": 0.5, "start": 15},
+    {"type": "Harmony", "tag": "V", "layers": ["DCML"], "duration": 0.5, "start": 15.5},
+    {"type": "Cadence", "tag": "PAC", "layers": ["DCML"], "start": 16}
+ ],
+  "meta": {
+    "layout": [
+      {"filter": {"type": "Cadence"}, "style": {"line": "all"}, "color": "#050505"},
+      {"filter": {"type": "Harmony"}, "style": {"line": "bot.1"}},
+      {"filter": {"type": "Local Key"}, "style": {"line": "bot.2", "color": "#5850be"}},
+      {"filter": {"type": "Phrase"}, "style": {"line": "bot.3"}, "color": "#aab006"},
+      {"filter": {"type": "Texture"}, "style": {"line": "top.3"}},
+      {"filter": {"type": "Structure", "tag": "Exposition"}, "style": {"line": "top.1"}},
+      {"filter": {"type": "Structure", "tag": "Development"}, "style": {"line": "top.1"}},
+      {"filter": {"type": "Structure", "tag": "Recapitulation"}, "style": {"line": "top.1"}},
+      {"filter": {"type": "Structure"}, "style": {"line": "top.2"}}
+    ]
+  }
+}
