@@ -19,6 +19,7 @@ hop = 32;
 % % run the dyanamic time warping alignment
 [res,spec,dtw] = runDTWAlignment(audiofile, midifile, 0.025,width,targetsr,nharm,winms);
 
+res.nmat
 
 % % HMM parameters
 % meansCovarsMat='polySingingMeansCovars.mat';
