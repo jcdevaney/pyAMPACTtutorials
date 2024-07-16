@@ -1,11 +1,11 @@
-% audiofile=('example.wav');
-% midifile=('example.mid');
+audiofile=('example.wav');
+midifile=('example.mid');
 
 % audiofile = 'polyExample.wav';
 % midifile = 'polyExample.mid';
 
-audiofile=('Monteverdi_A un giro sol.wav');
-midifile=('/Users/jcdevaney/Desktop/pyAMPACTtest/Monteverdi-A un giro sol Bb 2v.midi');
+% audiofile=('Monteverdi_A un giro sol.wav');
+% midifile=('/Users/jcdevaney/Documents/GitHub/pyAMPACTtutorials/test_files/debugFiles/Monteverdi-A un giro sol Bb 2v.midi');
 
 % audiofile=('Monteverdi_ Cruda Amarilli.wav');
 % midifile=('/Users/jcdevaney/Desktop/pyAMPACTtest/Monteverdi-Cruda Amarilli-4v.midi');
