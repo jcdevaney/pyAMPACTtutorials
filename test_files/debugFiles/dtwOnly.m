@@ -1,5 +1,3 @@
-audiofile=('example.wav');
-midifile=('example.mid');
 
 % audiofile = 'polyExample.wav';
 % midifile = 'polyExample.mid';
@@ -9,6 +7,9 @@ midifile=('example.mid');
 
 % audiofile=('Monteverdi_ Cruda Amarilli.wav');
 % midifile=('/Users/jcdevaney/Desktop/pyAMPACTtest/Monteverdi-Cruda Amarilli-4v.midi');
+
+audiofile=('example.wav');
+midifile=('example.mid');
 
 width = 3;
 targetsr = 4000;
