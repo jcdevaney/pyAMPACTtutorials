@@ -1,0 +1,46 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: Theme d
+**function	**harte	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=13	=13	=13	=13
+4..T	C:min/b3	4E- 4G	(8ccL
+.	.	.	24ddL
+.	.	.	24cc
+.	.	.	24bJJ
+.	.	8.E-L 8.G	8.ccL
+16T	C:min	16CJk 16G	16ee-Jk)
+2T	G:maj/3	2BB 2G	(8ddL
+.	.	.	8gg)
+.	.	.	8gg'
+.	.	.	8gg'J
+=14	=14	=14	=14
+4..T	C:min/b3	4E- 4G	(8ccL
+.	.	.	24ddL
+.	.	.	24cc
+.	.	.	24bJJ
+.	.	8.E-L 8.G	8.ccL
+16T	C:min	16CJk 16G	16ee-Jk)
+2T	G:maj/3	2BB 2G	(8ddL
+.	.	.	8gg)
+.	.	.	8gg'
+.	.	.	8gg'J
+=15	=15	=15	=15
+4T	C:min/b3	4E-	(8ggL
+.	.	.	8aa-)
+4P	F:min	4F	(8gg
+.	.	.	8aa-J)
+4D	C:min/5	4G	(8ee-L 8gg
+.	.	.	8dd 8ff
+4D	G:maj	4GG	8cc 8ee-
+.	.	.	8bJ) 8dd
+=16	=16	=16	=16
+1T	C:min	4C	4cc
+.	.	8.CCL 8.C	8.e-L 8.g 8.cc
+.	.	16CCJk 16C	16e-Jk 16g 16cc
+.	.	2CC 2C	2e- 2g 2cc
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

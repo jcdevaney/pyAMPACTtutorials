@@ -1,0 +1,66 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 8 b
+**function	**harte	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=133	=133	=133	=133
+2T	E-:maj/3	8GL 8B-	16ee-LL
+.	.	.	16b-
+.	.	8e-	16g
+.	.	.	16b-JJ
+.	.	8G 8B-	16ee-LL
+.	.	.	16b-
+.	.	8e-J	16ee-
+.	.	.	16ggJJ
+2T	B-:maj	8A-L 8B-	16ffLL
+.	.	.	16dd
+.	.	8d	16b-
+.	.	.	16ddJJ
+.	.	8A- 8B-	16ffLL
+.	.	.	16dd
+.	.	8dJ	16ff
+.	.	.	16bb-JJ
+=134	=134	=134	=134
+2T	E-:maj/3	8GL 8B-	16ee-LL
+.	.	.	16b-
+.	.	8e-	16g
+.	.	.	16b-JJ
+.	.	8G 8B-	16ee-LL
+.	.	.	16b-
+.	.	8e-J	16ee-
+.	.	.	16ggJJ
+2T	B-:maj	8A-L 8B-	16ffLL
+.	.	.	16dd
+.	.	8d	16b-
+.	.	.	16ddJJ
+.	.	8A- 8B-	16ffLL
+.	.	.	16dd
+.	.	8dJ	16ff
+.	.	.	16bb-JJ
+=135	=135	=135	=135
+4T	E-:maj/3	8GL 8B-	16b-LL
+.	.	.	16ee-
+.	.	8e-	16gg
+.	.	.	16ee-JJ
+4P	F:min7/b3	8A- 8c	16ffLL
+.	.	.	16cc
+.	.	8e-J	16a-
+.	.	.	16ccJJ
+4D	E-:maj/5	8B-L	16ee-LL
+.	.	.	16b-
+.	.	8e-	16g
+.	.	.	16b-JJ
+4D	B-:7	8B-	16ddLL
+.	.	.	16a-
+.	.	8dJ	16f
+.	.	.	16a-JJ
+=136	=136	=136	=136
+1T	E-:maj	4e-	4g 4ee-
+.	.	8.E-L 8.e-	8.ee-L
+.	.	16E-Jk 16e-	16ee-Jk
+.	.	2E- 2e-	2ee-
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19

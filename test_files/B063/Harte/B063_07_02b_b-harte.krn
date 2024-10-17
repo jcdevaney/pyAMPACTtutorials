@@ -1,0 +1,50 @@
+!!!COM: Beethoven
+!!!OTL: Neun Variationen uber einen Marsch von E. Chr. Dressler
+!!!Variation: 7 b
+**function	**harte	**kern	**kern
+*	*	*clefF4	*clefG2
+*	*	*k[b-e-a-]	*k[b-e-a-]
+*M4/4	*M4/4	*M4/4	*M4/4
+*c:	*c:	*c:	*c:
+=117	=117	=117	=117
+2T	E-:maj/3	4G 4B-	12b-L
+.	.	.	12ee-
+.	.	.	12ddJ
+.	.	4e-	12ee-L
+.	.	.	12dd
+.	.	.	12ee-J
+2T	B-:maj	4A- 4B-	12ddL
+.	.	.	12bb-
+.	.	.	12aaJ
+.	.	4d	12bb-L
+.	.	.	12aa
+.	.	.	12bb-J
+=118	=118	=118	=118
+2T	E-:maj/3	4G 4B-	12b-L
+.	.	.	12ee-
+.	.	.	12ddJ
+.	.	4e-	12ee-L
+.	.	.	12dd
+.	.	.	12ee-J
+2T	B-:maj	4A- 4B-	12ddL
+.	.	.	12bb-
+.	.	.	12aaJ
+.	.	4d	12bb-L
+.	.	.	12aa
+.	.	.	12bb-J
+=119	=119	=119	=119
+4T	E-:maj/3	4G 4B- 4e-	12bb-'L
+.	.	.	(12bb-
+.	.	.	12bbJ
+4P	F:min/b3	4A- 4c 4f	12cccL
+.	.	.	12aa-
+.	.	.	12ffJ)
+4D	E-:maj/5	4B- 4e- 4g	4ee-
+4D	B-:7	4B- 4d 4a-	4ff
+=120	=120	=120	=120
+1T	E-:maj	4e- 4g	4ee-
+.	.	8.E-L 8.e-	8.ee-L
+.	.	16E-Jk 16e-	16ee-Jk
+.	.	2E- 2e-	2ee-
+*-	*-	*-	*-
+!!!EMD: Edited in humdrumR 0.7.0.3 on 2024-01-19
